@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-05T20:24:21.291Z",
+  "lastSourceUpdate": "2026-11-05T21:24:20.342Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -159,7 +159,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 0,
+        "volume": 80.56152,
         "fee": 0,
         "deposit": 956.99
       },
@@ -177,7 +177,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 610483.98101259,
-        "fee": 260.91131192,
+        "fee": 264.75812628,
         "deposit": 9487.60806218
       },
       "campaign": {
@@ -602,7 +602,7 @@
       "kol": "MoMo",
       "allTime": {
         "volume": 17247.03701491,
-        "fee": 2.00606958,
+        "fee": 2.34750345,
         "deposit": 8272.77831796
       },
       "campaign": {
@@ -806,7 +806,7 @@
       "kol": "MoMo",
       "allTime": {
         "volume": 72211.34507,
-        "fee": 11.416354349999999,
+        "fee": 11.52461019,
         "deposit": 210.97
       },
       "campaign": {
@@ -1146,7 +1146,7 @@
       "kol": "จารเบียร์",
       "allTime": {
         "volume": 49106.64105,
-        "fee": 12.04332811,
+        "fee": 12.76128994,
         "deposit": 150.540445
       },
       "campaign": {
@@ -1213,8 +1213,8 @@
       "discordTag": "champchips",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 72931.5835177,
-        "fee": 8.59770084,
+        "volume": 75372.3962773,
+        "fee": 9.98509476,
         "deposit": 8086.4379399
       },
       "campaign": {
@@ -1333,7 +1333,7 @@
       "kol": "จารเบียร์",
       "allTime": {
         "volume": 37210.24301828,
-        "fee": 9.40064633,
+        "fee": 10.28483375,
         "deposit": 109.99
       },
       "campaign": {
@@ -1774,7 +1774,7 @@
       "discordTag": "dexdoge",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 1205.46691,
+        "volume": 4013.093222,
         "fee": 0,
         "deposit": 999.98
       },
@@ -2013,7 +2013,7 @@
       "kol": "จารเบียร์",
       "allTime": {
         "volume": 6242.48039188,
-        "fee": 0.6071714,
+        "fee": 0.8289674,
         "deposit": 2653.82969085
       },
       "campaign": {
@@ -3815,7 +3815,7 @@
       "kol": "Killstory_Aranz",
       "allTime": {
         "volume": 1516113.7028186503,
-        "fee": 301.83798462000004,
+        "fee": 302.19113863,
         "deposit": 23542.993269160004
       },
       "campaign": {
@@ -4240,7 +4240,7 @@
       "kol": "TP SQUAD",
       "allTime": {
         "volume": 27767.770791569998,
-        "fee": 2.93392101,
+        "fee": 2.98789875,
         "deposit": 3688.5463725500003
       },
       "campaign": {
@@ -4494,7 +4494,7 @@
       "discordTag": "cryptoplayto",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 175.3796,
+        "volume": 304.25386166,
         "fee": 0,
         "deposit": 155.35288098
       },
@@ -4733,7 +4733,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 76694.572004,
-        "fee": 19.59470242,
+        "fee": 19.959539760000002,
         "deposit": 1800.99
       },
       "campaign": {
@@ -5583,7 +5583,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 70110.33294,
-        "fee": 12.38998071,
+        "fee": 12.41353571,
         "deposit": 2907.1293859999996
       },
       "campaign": {
@@ -6484,7 +6484,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 711574.4634777999,
-        "fee": 192.23431417999998,
+        "fee": 195.49202825,
         "deposit": 19938.40908185
       },
       "campaign": {
@@ -6551,7 +6551,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 335497.51126182,
+        "volume": 335496.28138422,
         "fee": 408.43674421,
         "deposit": 188166.42776105003
       },
@@ -6585,7 +6585,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 21207.030633090002,
+        "volume": 21211.20837357,
         "fee": 4.00434336,
         "deposit": 32802.11622257
       },
@@ -6688,7 +6688,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 90609.77846645999,
-        "fee": 194.24859386,
+        "fee": 194.24916586,
         "deposit": 87069.75713932
       },
       "campaign": {
@@ -7028,7 +7028,7 @@
       "kol": "Altier Gangster",
       "allTime": {
         "volume": 49.61772,
-        "fee": 0,
+        "fee": 0.01488531,
         "deposit": 100.99
       },
       "campaign": {
@@ -7249,7 +7249,7 @@
       "kol": "Stang",
       "allTime": {
         "volume": 815040.27587039,
-        "fee": 111.08924449,
+        "fee": 123.34511393999999,
         "deposit": 941.43552152
       },
       "campaign": {
@@ -7266,7 +7266,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 5571.85138912,
-        "fee": 0.043745110000000004,
+        "fee": 0.05735588,
         "deposit": 0
       },
       "campaign": {
@@ -7385,7 +7385,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 3580697.55720413,
-        "fee": 1276.90974751,
+        "fee": 1279.21122715,
         "deposit": 12895.148327359999
       },
       "campaign": {
