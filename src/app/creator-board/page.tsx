@@ -73,7 +73,7 @@ export default function CreatorBoard() {
           <div className="p-6 md:p-8 flex justify-between items-end border-b border-gray-800 relative z-10">
               <div>
                   <h2 className="text-3xl font-display font-bold text-white mb-1">Creator Board</h2>
-                  <p className="text-sm text-gray-400">Alt1er x OKX Web3 Season 1</p>
+                  <p className="text-sm text-gray-400">Alt1er x MEXC Season 1</p>
               </div>
               <div className="text-right">
                   <p className="text-xs text-gray-500 font-bold tracking-widest uppercase mb-1">Prize Pool</p>
