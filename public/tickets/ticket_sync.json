@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-05T19:24:20.021Z",
+  "lastSourceUpdate": "2026-11-05T20:24:21.291Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -601,7 +601,7 @@
       "discordTag": "lluxl",
       "kol": "MoMo",
       "allTime": {
-        "volume": 15613.462014910001,
+        "volume": 17247.03701491,
         "fee": 2.00606958,
         "deposit": 8272.77831796
       },
@@ -805,7 +805,7 @@
       "discordTag": "tonii2",
       "kol": "MoMo",
       "allTime": {
-        "volume": 71850.49227,
+        "volume": 72211.34507,
         "fee": 11.416354349999999,
         "deposit": 210.97
       },
@@ -1145,7 +1145,7 @@
       "discordTag": "pikajoe",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 41550.60462,
+        "volume": 49106.64105,
         "fee": 12.04332811,
         "deposit": 150.540445
       },
@@ -1213,7 +1213,7 @@
       "discordTag": "champchips",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 64406.7531177,
+        "volume": 72931.5835177,
         "fee": 8.59770084,
         "deposit": 8086.4379399
       },
@@ -1332,7 +1332,7 @@
       "discordTag": "newtopman_12821",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 34262.95160828,
+        "volume": 37210.24301828,
         "fee": 9.40064633,
         "deposit": 109.99
       },
@@ -1774,7 +1774,7 @@
       "discordTag": "dexdoge",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 190.3945,
+        "volume": 1205.46691,
         "fee": 0,
         "deposit": 999.98
       },
@@ -2012,7 +2012,7 @@
       "discordTag": "auii123.",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 5503.16039188,
+        "volume": 6242.48039188,
         "fee": 0.6071714,
         "deposit": 2653.82969085
       },
@@ -3814,7 +3814,7 @@
       "discordTag": "killstory",
       "kol": "Killstory_Aranz",
       "allTime": {
-        "volume": 1514936.5227886501,
+        "volume": 1516113.7028186503,
         "fee": 301.83798462000004,
         "deposit": 23542.993269160004
       },
@@ -3831,7 +3831,7 @@
       "discordTag": "spiceee_6753",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 0,
+        "volume": 183.0276,
         "fee": 0,
         "deposit": 437.379333
       },
@@ -4239,7 +4239,7 @@
       "discordTag": "huntersxhunt",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 27474.51643857,
+        "volume": 27767.770791569998,
         "fee": 2.93392101,
         "deposit": 3688.5463725500003
       },
@@ -4494,7 +4494,7 @@
       "discordTag": "cryptoplayto",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 0,
+        "volume": 175.3796,
         "fee": 0,
         "deposit": 155.35288098
       },
@@ -6585,12 +6585,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 21205.49328609,
+        "volume": 21207.030633090002,
         "fee": 4.00434336,
         "deposit": 32802.11622257
       },
       "campaign": {
-        "volume": 1.537347,
+        "volume": 3.074694,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
@@ -6891,7 +6891,7 @@
       "discordTag": "bank03249",
       "kol": "Altier Gangster",
       "allTime": {
-        "volume": 7400.1218869,
+        "volume": 9384.0605069,
         "fee": 0.1235115,
         "deposit": 6571.92433573
       },
@@ -7027,7 +7027,7 @@
       "discordTag": "sapoman",
       "kol": "Altier Gangster",
       "allTime": {
-        "volume": 0,
+        "volume": 49.61772,
         "fee": 0,
         "deposit": 100.99
       },
@@ -7248,7 +7248,7 @@
       "discordTag": ".yoloth",
       "kol": "Stang",
       "allTime": {
-        "volume": 742393.48302039,
+        "volume": 815040.27587039,
         "fee": 111.08924449,
         "deposit": 941.43552152
       },
@@ -7265,7 +7265,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 5496.235989119999,
+        "volume": 5571.85138912,
         "fee": 0.043745110000000004,
         "deposit": 0
       },
@@ -7401,7 +7401,7 @@
       "discordTag": "wuttikiat85",
       "kol": "CryptoMint",
       "allTime": {
-        "volume": 2599.53956,
+        "volume": 2821.58648,
         "fee": 0,
         "deposit": 129.406179
       },
