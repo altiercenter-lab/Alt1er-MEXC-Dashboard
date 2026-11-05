@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-05T14:24:19.635Z",
+  "lastSourceUpdate": "2026-11-05T15:24:28.473Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -246,7 +246,7 @@
       "allTime": {
         "volume": 242128.88734122002,
         "fee": 83.39965586,
-        "deposit": 211
+        "deposit": 511
       },
       "campaign": {
         "volume": 0,
@@ -7384,7 +7384,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 3541594.34196463,
+        "volume": 3549265.9407646297,
         "fee": 1269.1849375900001,
         "deposit": 17619.054704039998
       },
