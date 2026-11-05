@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-05T21:24:20.342Z",
+  "lastSourceUpdate": "2026-11-05T22:24:23.115Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -160,7 +160,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 80.56152,
-        "fee": 0,
+        "fee": 0.02919421,
         "deposit": 956.99
       },
       "campaign": {
@@ -1214,7 +1214,7 @@
       "kol": "จารเบียร์",
       "allTime": {
         "volume": 75372.3962773,
-        "fee": 9.98509476,
+        "fee": 9.98666175,
         "deposit": 8086.4379399
       },
       "campaign": {
@@ -4495,7 +4495,7 @@
       "kol": "TP SQUAD",
       "allTime": {
         "volume": 304.25386166,
-        "fee": 0,
+        "fee": 0.02581297,
         "deposit": 155.35288098
       },
       "campaign": {
@@ -5991,7 +5991,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 159.02544,
-        "fee": 0.02750263,
+        "fee": 0.028131499999999997,
         "deposit": 674.3379505300001
       },
       "campaign": {
@@ -6586,7 +6586,7 @@
       "kol": "Altier",
       "allTime": {
         "volume": 21211.20837357,
-        "fee": 4.00434336,
+        "fee": 4.00942908,
         "deposit": 32802.11622257
       },
       "campaign": {
