@@ -424,7 +424,7 @@ uid,discord_id,kyc_verified,campaign_referral_verified,uid_binding_verified,excl
 14833806,322002057366077442,true,true,true,false,false,,
 30872244,905848346164465694,true,true,true,false,false,,
 83905597,867657660375236629,true,true,true,false,false,,
-16206731,674557290296115220,true,true,true,false,false,,
+16206731,674557290296115220,true,true,true,false,true,,
 41954888,,false,true,false,false,false,,
 96404388,,false,true,false,false,false,,
 32261180,,false,true,false,false,false,,
