@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-06T14:24:48.452Z",
+  "lastSourceUpdate": "2026-11-06T15:24:35.051Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -4496,7 +4496,7 @@
       "allTime": {
         "volume": 304.25386166,
         "fee": 0.02581297,
-        "deposit": 155.38858323
+        "deposit": 192.32695923
       },
       "campaign": {
         "volume": 0,
@@ -5958,7 +5958,7 @@
       "allTime": {
         "volume": 0,
         "fee": 0,
-        "deposit": 477
+        "deposit": 541
       },
       "campaign": {
         "volume": 0,
