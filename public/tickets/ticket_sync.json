@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-06T21:24:25.002Z",
+  "lastSourceUpdate": "2026-11-06T22:24:28.201Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -245,12 +245,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 257041.30674722,
-        "fee": 85.22407048,
+        "fee": 85.22439818,
         "deposit": 520.0073575
       },
       "campaign": {
         "volume": 13132.285606,
-        "fee": 1.82441462,
+        "fee": 1.82474232,
         "eligibleVolume": 13132.285606,
         "tickets": 2
       }
@@ -602,12 +602,12 @@
       "kol": "MoMo",
       "allTime": {
         "volume": 19590.86553982,
-        "fee": 2.5986215,
+        "fee": 2.60368775,
         "deposit": 8272.77831796
       },
       "campaign": {
         "volume": 1053.7966,
-        "fee": 0.15077538,
+        "fee": 0.15584163,
         "eligibleVolume": 1053.7966,
         "tickets": 0
       }
@@ -1214,12 +1214,12 @@
       "kol": "จารเบียร์",
       "allTime": {
         "volume": 109549.3106145,
-        "fee": 20.04562323,
+        "fee": 20.17600659,
         "deposit": 8127.91706652
       },
       "campaign": {
         "volume": 34176.9143372,
-        "fee": 10.05896148,
+        "fee": 10.18934484,
         "eligibleVolume": 34176.9143372,
         "tickets": 6
       }
@@ -5991,13 +5991,13 @@
       "kol": "Altier",
       "allTime": {
         "volume": 161.38494,
-        "fee": 0.028104539999999997,
+        "fee": 0.02867972,
         "deposit": 674.3379505300001
       },
       "campaign": {
         "volume": 2.3478,
-        "fee": 0,
-        "eligibleVolume": 0,
+        "fee": 0.00057517,
+        "eligibleVolume": 2.3478,
         "tickets": 0
       }
     },
@@ -6586,12 +6586,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 22241.00851349,
-        "fee": 4.25855466,
+        "fee": 4.26349021,
         "deposit": 32923.896682160004
       },
       "campaign": {
         "volume": 1279.80663391,
-        "fee": 0.32320512,
+        "fee": 0.32814067,
         "eligibleVolume": 1279.80663391,
         "tickets": 0
       }
@@ -6688,12 +6688,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 90737.96255646,
-        "fee": 193.06910216,
+        "fee": 194.69345703,
         "deposit": 88117.86713932
       },
       "campaign": {
         "volume": 319.06773,
-        "fee": 0.0567358,
+        "fee": 1.68109067,
         "eligibleVolume": 319.06773,
         "tickets": 0
       }
@@ -7249,13 +7249,13 @@
       "kol": "Stang",
       "allTime": {
         "volume": 823369.93786339,
-        "fee": 125.37095509,
+        "fee": 125.37235533,
         "deposit": 1097.9376359399998
       },
       "campaign": {
         "volume": 11.129193,
-        "fee": 0,
-        "eligibleVolume": 0,
+        "fee": 0.00140023,
+        "eligibleVolume": 11.129193,
         "tickets": 0
       }
     },
