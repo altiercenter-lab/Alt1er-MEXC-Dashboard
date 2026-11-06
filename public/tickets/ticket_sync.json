@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-06T13:24:26.589Z",
+  "lastSourceUpdate": "2026-11-06T14:24:48.452Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -6585,12 +6585,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 22203.67282807,
+        "volume": 22481.39088957,
         "fee": 4.00942908,
-        "deposit": 32802.11622257
+        "deposit": 32906.33073419
       },
       "campaign": {
-        "volume": 995.5391485,
+        "volume": 1273.25721,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
@@ -6687,12 +6687,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 90739.72685646,
+        "volume": 90836.90651645999,
         "fee": 194.24916586,
         "deposit": 88168.73713932002
       },
       "campaign": {
-        "volume": 221.88807,
+        "volume": 319.06773,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
