@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-06T02:24:22.613Z",
+  "lastSourceUpdate": "2026-11-06T03:24:21.821Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -3833,7 +3833,7 @@
       "allTime": {
         "volume": 183.0276,
         "fee": 0,
-        "deposit": 437.379333
+        "deposit": 970.981837
       },
       "campaign": {
         "volume": 0,
@@ -4751,7 +4751,7 @@
       "allTime": {
         "volume": 0,
         "fee": 0,
-        "deposit": 53.15
+        "deposit": 66.55
       },
       "campaign": {
         "volume": 0,
@@ -5990,12 +5990,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 159.02544,
+        "volume": 161.42813999999998,
         "fee": 0.028131499999999997,
         "deposit": 674.3379505300001
       },
       "campaign": {
-        "volume": 0,
+        "volume": 2.4027,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
@@ -6483,12 +6483,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 711574.4634777999,
+        "volume": 712676.9476478,
         "fee": 195.49202825,
         "deposit": 19707.56095355
       },
       "campaign": {
-        "volume": 0,
+        "volume": 1102.48417,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
@@ -6585,12 +6585,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 21211.20837357,
+        "volume": 22203.67282807,
         "fee": 4.00942908,
         "deposit": 32802.11622257
       },
       "campaign": {
-        "volume": 3.074694,
+        "volume": 995.5391485,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
@@ -6687,12 +6687,12 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 90609.77846645999,
+        "volume": 90739.72685646,
         "fee": 194.24916586,
         "deposit": 87069.75713932
       },
       "campaign": {
-        "volume": 91.93968,
+        "volume": 221.88807,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
