@@ -222,7 +222,7 @@ uid,discord_id,kyc_verified,campaign_referral_verified,uid_binding_verified,excl
 52245122,,false,true,false,false,false,,
 73233887,,false,true,false,false,false,,
 59832607,,false,true,false,false,false,,
-35317872,392869279067930634,true,true,true,false,false,,
+35317872,392869279067930634,true,true,true,false,true,,
 43556157,839095816013611009,true,true,true,false,true,,
 46145049,,false,true,false,false,false,,
 82031307,725150506221305867,true,true,true,false,false,,
