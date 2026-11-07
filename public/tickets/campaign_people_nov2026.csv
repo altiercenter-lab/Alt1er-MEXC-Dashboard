@@ -247,7 +247,7 @@ uid,discord_id,kyc_verified,campaign_referral_verified,uid_binding_verified,excl
 20875789,700661863746109493,true,true,true,false,false,,
 50516531,393655920380346388,true,true,true,false,false,,
 52971966,901779316537425960,true,true,true,false,false,,
-26093185,869034378733453312,true,true,true,false,false,,
+26093185,869034378733453312,true,true,true,false,true,,
 86568534,,false,true,false,false,false,,
 07578411,1056577189342085222,true,true,true,false,false,,
 76605579,1061680588337193060,true,true,true,false,false,,
