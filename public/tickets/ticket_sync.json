@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-07T23:24:19.771Z",
+  "lastSourceUpdate": "2026-11-08T00:24:27.442Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -3816,7 +3816,7 @@
       "allTime": {
         "volume": 1823245.6489886502,
         "fee": 358.15999457,
-        "deposit": 23799.185829820002
+        "deposit": 23799.185830160004
       },
       "campaign": {
         "volume": 10004.42808,
@@ -4241,7 +4241,7 @@
       "allTime": {
         "volume": 27571.375392970003,
         "fee": 3.044658,
-        "deposit": 5069.061372550001
+        "deposit": 5169.061372550001
       },
       "campaign": {
         "volume": 626.2844314,
@@ -4564,7 +4564,7 @@
       "allTime": {
         "volume": 517.20855,
         "fee": 0,
-        "deposit": 4902.17458262
+        "deposit": 4902.174583
       },
       "campaign": {
         "volume": 0,
@@ -6587,7 +6587,7 @@
       "allTime": {
         "volume": 21976.35398345,
         "fee": 4.18249945,
-        "deposit": 35641.47464424
+        "deposit": 35641.47464454
       },
       "campaign": {
         "volume": 1303.73970387,
