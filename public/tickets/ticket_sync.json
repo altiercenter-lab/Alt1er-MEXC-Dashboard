@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-08T15:24:23.869Z",
+  "lastSourceUpdate": "2026-11-08T16:24:22.605Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -176,9 +176,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 612297.91394399,
-        "fee": 264.84306168,
-        "deposit": 9487.60806218
+        "volume": 610420.8881325901,
+        "fee": 264.72178478,
+        "deposit": 9497.10806218
       },
       "campaign": {
         "volume": 0,
@@ -246,7 +246,7 @@
       "allTime": {
         "volume": 255211.85564721999,
         "fee": 85.22439818,
-        "deposit": 520.0073580000001
+        "deposit": 725.0073580000001
       },
       "campaign": {
         "volume": 13132.285606,
@@ -261,9 +261,9 @@
       "discordTag": "minunplusle",
       "kol": "Altier",
       "allTime": {
-        "volume": 201542.216908,
-        "fee": 85.34425957,
-        "deposit": 2278.0554740000002
+        "volume": 190612.507968,
+        "fee": 81.95505825000001,
+        "deposit": 2581.0554740000002
       },
       "campaign": {
         "volume": 166.0808518,
@@ -295,8 +295,8 @@
       "discordTag": "shimal2i",
       "kol": "Altier",
       "allTime": {
-        "volume": 519289.89831848996,
-        "fee": 215.63454949,
+        "volume": 503990.97046849,
+        "fee": 206.75371274999998,
         "deposit": 11491.016328
       },
       "campaign": {
@@ -601,7 +601,7 @@
       "discordTag": "lluxl",
       "kol": "MoMo",
       "allTime": {
-        "volume": 18295.72111491,
+        "volume": 18079.60961491,
         "fee": 2.5033450900000003,
         "deposit": 8272.77831796
       },
@@ -805,8 +805,8 @@
       "discordTag": "tonii2",
       "kol": "MoMo",
       "allTime": {
-        "volume": 71243.90892,
-        "fee": 11.15867804,
+        "volume": 70503.55892000001,
+        "fee": 11.08464304,
         "deposit": 210.97
       },
       "campaign": {
@@ -873,9 +873,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 16.7293,
-        "fee": 0.13925725,
-        "deposit": 101
+        "volume": 20.5143,
+        "fee": 0.16764475,
+        "deposit": 202
       },
       "campaign": {
         "volume": 0,
@@ -1638,7 +1638,7 @@
       "discordTag": "tatarsuace",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 30701.75842131,
+        "volume": 30793.121561310003,
         "fee": 2.8446508,
         "deposit": 706.50215831
       },
@@ -1842,8 +1842,8 @@
       "discordTag": "nibunubu",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 899929.1426177,
-        "fee": 260.96969864,
+        "volume": 794232.5966187001,
+        "fee": 230.08175594,
         "deposit": 1097.6666799999998
       },
       "campaign": {
@@ -1995,7 +1995,7 @@
       "discordTag": "bblee.",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 1163.8003199999998,
+        "volume": 824.27803,
         "fee": 0,
         "deposit": 100.99
       },
@@ -3068,7 +3068,7 @@
       "allTime": {
         "volume": 205.21667000000002,
         "fee": 0,
-        "deposit": 2130.7504592
+        "deposit": 1130.7504592
       },
       "campaign": {
         "volume": 0,
@@ -3202,8 +3202,8 @@
       "discordTag": "cat12k",
       "kol": "Killstory_Aranz",
       "allTime": {
-        "volume": 5814.29872548,
-        "fee": 1.2139155000000001,
+        "volume": 5518.02872548,
+        "fee": 1.1842885,
         "deposit": 1462.682879
       },
       "campaign": {
@@ -3457,8 +3457,8 @@
       "discordTag": "shinpld",
       "kol": "Killstory_Aranz",
       "allTime": {
-        "volume": 159388.7995979,
-        "fee": 34.270000929999995,
+        "volume": 155349.382567,
+        "fee": 33.2487946,
         "deposit": 3499.95
       },
       "campaign": {
@@ -3729,8 +3729,8 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 74168.67585,
-        "fee": 30.10878972,
+        "volume": 74014.97479000001,
+        "fee": 30.05195093,
         "deposit": 4860.405638
       },
       "campaign": {
@@ -3763,8 +3763,8 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 95604.81173011,
-        "fee": 27.897946909999998,
+        "volume": 90035.76469011,
+        "fee": 26.267219569999998,
         "deposit": 205.925
       },
       "campaign": {
@@ -3814,9 +3814,9 @@
       "discordTag": "killstory",
       "kol": "Killstory_Aranz",
       "allTime": {
-        "volume": 1823245.6489886502,
-        "fee": 358.15999457,
-        "deposit": 23799.185830160004
+        "volume": 1544188.23414545,
+        "fee": 313.38049519000003,
+        "deposit": 24487.12098016
       },
       "campaign": {
         "volume": 10004.42808,
@@ -4732,8 +4732,8 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 75741.94443399999,
-        "fee": 19.67287841,
+        "volume": 75733.605034,
+        "fee": 19.67124967,
         "deposit": 1600.99
       },
       "campaign": {
@@ -5125,7 +5125,7 @@
       "allTime": {
         "volume": 344.72551475,
         "fee": 0.0325124,
-        "deposit": 162.4523
+        "deposit": 162.5523
       },
       "campaign": {
         "volume": 0,
@@ -5395,9 +5395,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 213703.40005,
+        "volume": 213608.08693000002,
         "fee": 40.076626329999996,
-        "deposit": 216.0237512
+        "deposit": 237.24989207
       },
       "campaign": {
         "volume": 0,
@@ -5465,7 +5465,7 @@
       "allTime": {
         "volume": 205.75642,
         "fee": 0,
-        "deposit": 475.11411031
+        "deposit": 625.10411031
       },
       "campaign": {
         "volume": 0,
@@ -5582,7 +5582,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 65649.14254,
+        "volume": 65607.16654,
         "fee": 11.66688976,
         "deposit": 2807.139386
       },
@@ -5616,9 +5616,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 297.84528,
+        "volume": 429.06964,
         "fee": 0,
-        "deposit": 993.23
+        "deposit": 1386.21
       },
       "campaign": {
         "volume": 0,
@@ -5752,7 +5752,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 25187.517399999997,
+        "volume": 15476.948429999999,
         "fee": 0.00351762,
         "deposit": 420.035111
       },
@@ -5990,9 +5990,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 163.72014,
-        "fee": 0.029268919999999997,
-        "deposit": 723.61851853
+        "volume": 163.76814,
+        "fee": 0.029277199999999996,
+        "deposit": 674.33795053
       },
       "campaign": {
         "volume": 4.6722,
@@ -6194,9 +6194,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 34933.06950009,
-        "fee": 3.78210733,
-        "deposit": 34.052687739999996
+        "volume": 32102.84900609,
+        "fee": 3.68571469,
+        "deposit": 31.036089739999998
       },
       "campaign": {
         "volume": 0,
@@ -6483,9 +6483,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 719453.1232577999,
-        "fee": 199.63740127,
-        "deposit": 20207.55114955
+        "volume": 699379.1972178,
+        "fee": 193.25291546,
+        "deposit": 19207.56114955
       },
       "campaign": {
         "volume": 14987.71434,
@@ -6517,7 +6517,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 158385.45762679,
+        "volume": 158692.88455679,
         "fee": 28.90948202,
         "deposit": 148.641688
       },
@@ -6551,9 +6551,9 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 335736.6440631,
-        "fee": 408.27788965999997,
-        "deposit": 188457.49159363998
+        "volume": 335582.38319386,
+        "fee": 408.23960968999995,
+        "deposit": 188605.88159364
       },
       "campaign": {
         "volume": 872.10190964,
@@ -6587,7 +6587,7 @@
       "allTime": {
         "volume": 21976.35398345,
         "fee": 4.18249945,
-        "deposit": 35841.803078230005
+        "deposit": 34351.22100723
       },
       "campaign": {
         "volume": 1303.73970387,
@@ -6687,8 +6687,8 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 90737.96255646,
-        "fee": 194.69345703,
+        "volume": 90823.01180646001,
+        "fee": 194.72747673,
         "deposit": 90093.67713932
       },
       "campaign": {
@@ -7214,8 +7214,8 @@
       "discordTag": "simurgh_",
       "kol": "Altier Gangster",
       "allTime": {
-        "volume": 2301636.05650743,
-        "fee": 631.85794659,
+        "volume": 2331658.43630743,
+        "fee": 642.77294323,
         "deposit": 9476.28138312
       },
       "campaign": {
@@ -7265,8 +7265,8 @@
       "discordTag": ".yoloth",
       "kol": "Stang",
       "allTime": {
-        "volume": 845608.76822339,
-        "fee": 128.50366706999998,
+        "volume": 871459.42752339,
+        "fee": 133.95300737999997,
         "deposit": 1097.9376355200002
       },
       "campaign": {
@@ -7282,7 +7282,7 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 6270.36788912,
+        "volume": 6684.92448912,
         "fee": 0.05735588,
         "deposit": 0
       },
@@ -7367,8 +7367,8 @@
       "discordTag": "thirdcoolz",
       "kol": "HMM",
       "allTime": {
-        "volume": 3323978.145298,
-        "fee": 1125.3827105999999,
+        "volume": 3327057.163954,
+        "fee": 1125.88209949,
         "deposit": 3919.72
       },
       "campaign": {
@@ -7401,8 +7401,8 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 3540765.37136083,
-        "fee": 1269.37134101,
+        "volume": 3541004.55561283,
+        "fee": 1269.40136597,
         "deposit": 12895.14832736
       },
       "campaign": {
@@ -7741,7 +7741,7 @@
       "discordTag": "sinonxd",
       "kol": "CryptoMint",
       "allTime": {
-        "volume": 14274.4372964,
+        "volume": 13900.589896399999,
         "fee": 0,
         "deposit": 101.963832
       },
