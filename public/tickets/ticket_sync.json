@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-08T12:24:29.665Z",
+  "lastSourceUpdate": "2026-11-08T13:24:40.175Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -12,7 +12,7 @@
     "isLive": true
   },
   "summary": {
-    "totalKnownParticipants": 465,
+    "totalKnownParticipants": 466,
     "campaignEligibleUsers": 5,
     "campaignTotalTickets": 31
   },
@@ -4564,7 +4564,7 @@
       "allTime": {
         "volume": 517.20855,
         "fee": 0,
-        "deposit": 4902.174583
+        "deposit": 5256.34096826
       },
       "campaign": {
         "volume": 0,
@@ -6737,6 +6737,23 @@
       "discordId": null,
       "discordTag": null,
       "kol": "Altier",
+      "allTime": {
+        "volume": 0,
+        "fee": 0,
+        "deposit": 0
+      },
+      "campaign": {
+        "volume": 0,
+        "fee": 0,
+        "eligibleVolume": 0,
+        "tickets": 0
+      }
+    },
+    {
+      "uid": "55737503",
+      "discordId": "412187793977245708",
+      "discordTag": "avalon3249",
+      "kol": "Altier Gangster",
       "allTime": {
         "volume": 0,
         "fee": 0,
