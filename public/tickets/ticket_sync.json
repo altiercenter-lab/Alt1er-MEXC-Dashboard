@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-08T19:24:21.240Z",
+  "lastSourceUpdate": "2026-11-08T20:24:23.493Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -14,7 +14,7 @@
   "summary": {
     "totalKnownParticipants": 466,
     "campaignEligibleUsers": 5,
-    "campaignTotalTickets": 31
+    "campaignTotalTickets": 33
   },
   "data": [
     {
@@ -176,14 +176,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 610420.8881325901,
-        "fee": 264.72178478,
+        "volume": 612063.93987259,
+        "fee": 265.43158313,
         "deposit": 9497.10806218
       },
       "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
+        "volume": 1643.05174,
+        "fee": 0.70979835,
+        "eligibleVolume": 1643.05174,
         "tickets": 0
       }
     },
@@ -1213,15 +1213,15 @@
       "discordTag": "champchips",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 162925.1032245,
-        "fee": 36.18874438,
+        "volume": 166866.9154245,
+        "fee": 37.36843948,
         "deposit": 8127.92449332
       },
       "campaign": {
-        "volume": 87552.7069472,
-        "fee": 26.20208262,
-        "eligibleVolume": 87552.7069472,
-        "tickets": 17
+        "volume": 91494.5191472,
+        "fee": 27.38177772,
+        "eligibleVolume": 91494.5191472,
+        "tickets": 18
       }
     },
     {
@@ -3219,12 +3219,12 @@
       "discordTag": "rarayofsunshine",
       "kol": "Killstory_Aranz",
       "allTime": {
-        "volume": 897.371864,
+        "volume": 912.517464,
         "fee": 0.02251084,
         "deposit": 100.99
       },
       "campaign": {
-        "volume": 0,
+        "volume": 15.1456,
         "fee": 0,
         "eligibleVolume": 0,
         "tickets": 0
@@ -3831,14 +3831,14 @@
       "discordTag": "spiceee_6753",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 2040.48685,
+        "volume": 2856.3008884,
         "fee": 0.01957921,
         "deposit": 982.374252
       },
       "campaign": {
-        "volume": 1857.45925,
+        "volume": 2673.2732884,
         "fee": 0.01957921,
-        "eligibleVolume": 1857.45925,
+        "eligibleVolume": 2673.2732884,
         "tickets": 0
       }
     },
@@ -4239,14 +4239,14 @@
       "discordTag": "huntersxhunt",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 27571.375392970003,
-        "fee": 3.044658,
+        "volume": 27887.87850297,
+        "fee": 3.0699194800000003,
         "deposit": 5169.061372550001
       },
       "campaign": {
-        "volume": 626.2844314,
-        "fee": 0.13473862,
-        "eligibleVolume": 626.2844314,
+        "volume": 942.7875414,
+        "fee": 0.1600001,
+        "eligibleVolume": 942.7875414,
         "tickets": 0
       }
     },
@@ -4494,14 +4494,14 @@
       "discordTag": "cryptoplayto",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 702.35202466,
+        "volume": 1040.04017466,
         "fee": 0.09596792,
         "deposit": 192.33360123
       },
       "campaign": {
-        "volume": 398.098163,
+        "volume": 735.786313,
         "fee": 0.07015495,
-        "eligibleVolume": 398.098163,
+        "eligibleVolume": 735.786313,
         "tickets": 0
       }
     },
@@ -6483,15 +6483,15 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 699379.1972178,
-        "fee": 193.25291546,
+        "volume": 700578.8027177999,
+        "fee": 193.61457105,
         "deposit": 19207.56114955
       },
       "campaign": {
-        "volume": 14987.71434,
-        "fee": 3.54098557,
-        "eligibleVolume": 14987.71434,
-        "tickets": 2
+        "volume": 16187.31984,
+        "fee": 3.90264116,
+        "eligibleVolume": 16187.31984,
+        "tickets": 3
       }
     },
     {
@@ -6687,14 +6687,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 90823.01180646001,
-        "fee": 194.72747673,
+        "volume": 90825.45730646001,
+        "fee": 194.72821038,
         "deposit": 90093.67713932
       },
       "campaign": {
-        "volume": 319.06773,
-        "fee": 1.68109067,
-        "eligibleVolume": 319.06773,
+        "volume": 321.51323,
+        "fee": 1.68182432,
+        "eligibleVolume": 321.51323,
         "tickets": 0
       }
     },
@@ -7214,14 +7214,14 @@
       "discordTag": "simurgh_",
       "kol": "Altier Gangster",
       "allTime": {
-        "volume": 2331658.43630743,
-        "fee": 642.77294323,
+        "volume": 2333439.25430743,
+        "fee": 642.95102503,
         "deposit": 9476.28138312
       },
       "campaign": {
-        "volume": 1437.66,
-        "fee": 0.143766,
-        "eligibleVolume": 1437.66,
+        "volume": 3218.478,
+        "fee": 0.3218478,
+        "eligibleVolume": 3218.478,
         "tickets": 0
       }
     },
