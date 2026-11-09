@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-09T20:24:25.100Z",
+  "lastSourceUpdate": "2026-11-09T21:24:22.563Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -261,14 +261,14 @@
       "discordTag": "minunplusle",
       "kol": "Altier",
       "allTime": {
-        "volume": 188886.644868,
+        "volume": 188972.15097,
         "fee": 80.91746661,
         "deposit": 2278.0554740000002
       },
       "campaign": {
-        "volume": 166.0808518,
+        "volume": 251.5869538,
         "fee": 0.07371002,
-        "eligibleVolume": 166.0808518,
+        "eligibleVolume": 251.5869538,
         "tickets": 0
       }
     },
@@ -806,12 +806,12 @@
       "kol": "MoMo",
       "allTime": {
         "volume": 72185.17112,
-        "fee": 11.23259649,
+        "fee": 11.3439166,
         "deposit": 210.97
       },
       "campaign": {
         "volume": 2762.81419,
-        "fee": 0.30788004,
+        "fee": 0.41920015,
         "eligibleVolume": 2762.81419,
         "tickets": 0
       }
@@ -3831,14 +3831,14 @@
       "discordTag": "spiceee_6753",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 3553.8205384,
-        "fee": 0.01957921,
+        "volume": 3555.8183184,
+        "fee": 0.03008545,
         "deposit": 982.374252
       },
       "campaign": {
-        "volume": 3370.7929384,
-        "fee": 0.01957921,
-        "eligibleVolume": 3370.7929384,
+        "volume": 3372.7907184,
+        "fee": 0.03008545,
+        "eligibleVolume": 3372.7907184,
         "tickets": 0
       }
     },
@@ -4240,12 +4240,12 @@
       "kol": "TP SQUAD",
       "allTime": {
         "volume": 29605.99348897,
-        "fee": 3.0699194800000003,
+        "fee": 3.34204173,
         "deposit": 5169.061372550001
       },
       "campaign": {
         "volume": 2457.9339274,
-        "fee": 0.1600001,
+        "fee": 0.43212235,
         "eligibleVolume": 2457.9339274,
         "tickets": 0
       }
@@ -5583,13 +5583,13 @@
       "kol": "Altier",
       "allTime": {
         "volume": 70261.14576,
-        "fee": 11.87640373,
+        "fee": 12.27786851,
         "deposit": 2896.59832161
       },
       "campaign": {
         "volume": 3955.59932,
-        "fee": 0,
-        "eligibleVolume": 0,
+        "fee": 0.40146477,
+        "eligibleVolume": 3955.59932,
         "tickets": 0
       }
     },
@@ -5990,14 +5990,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 169.10274,
+        "volume": 168.98994,
         "fee": 0.029966359999999997,
         "deposit": 674.33795053
       },
       "campaign": {
-        "volume": 10.0818,
+        "volume": 9.969,
         "fee": 0.00174787,
-        "eligibleVolume": 10.0818,
+        "eligibleVolume": 9.969,
         "tickets": 0
       }
     },
@@ -6484,12 +6484,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 866473.7768786,
-        "fee": 242.19677688000002,
+        "fee": 243.02362928000002,
         "deposit": 21781.05528955
       },
       "campaign": {
         "volume": 19250.50064,
-        "fee": 3.90264116,
+        "fee": 4.72949355,
         "eligibleVolume": 19250.50064,
         "tickets": 3
       }
@@ -6585,14 +6585,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 24454.468647319998,
-        "fee": 4.1884972099999995,
+        "volume": 24460.155124689998,
+        "fee": 4.91923646,
         "deposit": 34332.21727284
       },
       "campaign": {
-        "volume": 3781.85436775,
-        "fee": 0.33972395,
-        "eligibleVolume": 3781.85436775,
+        "volume": 3787.54084512,
+        "fee": 1.0704632,
+        "eligibleVolume": 3787.54084512,
         "tickets": 0
       }
     },
@@ -6909,13 +6909,13 @@
       "kol": "Altier Gangster",
       "allTime": {
         "volume": 13330.7489669,
-        "fee": 0.1235115,
+        "fee": 0.7089495,
         "deposit": 6571.92433573
       },
       "campaign": {
         "volume": 3946.68846,
-        "fee": 0,
-        "eligibleVolume": 0,
+        "fee": 0.585438,
+        "eligibleVolume": 3946.68846,
         "tickets": 0
       }
     },
@@ -7350,14 +7350,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 14440.408934000001,
+        "volume": 14502.276886000001,
         "fee": 3.1549882200000003,
         "deposit": 167.47937065
       },
       "campaign": {
-        "volume": 1237.30981,
+        "volume": 1299.177762,
         "fee": 0.37119294,
-        "eligibleVolume": 1237.30981,
+        "eligibleVolume": 1299.177762,
         "tickets": 0
       }
     },
@@ -7419,13 +7419,13 @@
       "kol": "CryptoMint",
       "allTime": {
         "volume": 6021.56411,
-        "fee": 0,
+        "fee": 0.14071709,
         "deposit": 129.406179
       },
       "campaign": {
         "volume": 3199.97763,
-        "fee": 0,
-        "eligibleVolume": 0,
+        "fee": 0.14071709,
+        "eligibleVolume": 3199.97763,
         "tickets": 0
       }
     },
