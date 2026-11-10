@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-10T16:25:20.184Z",
+  "lastSourceUpdate": "2026-11-10T17:25:19.877Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -1213,14 +1213,14 @@
       "discordTag": "champchips",
       "kol": "จารเบียร์",
       "allTime": {
-        "volume": 166866.9154245,
+        "volume": 168615.4037245,
         "fee": 37.36843948,
         "deposit": 9966.85819332
       },
       "campaign": {
-        "volume": 91494.5191472,
+        "volume": 93243.0074472,
         "fee": 27.38177772,
-        "eligibleVolume": 91494.5191472,
+        "eligibleVolume": 93243.0074472,
         "tickets": 18
       }
     },
@@ -2250,14 +2250,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 31562.99507,
+        "volume": 31951.80609,
         "fee": 0.50144886,
         "deposit": 1499.69
       },
       "campaign": {
-        "volume": 784.0404,
+        "volume": 1172.85142,
         "fee": 0.23521212,
-        "eligibleVolume": 784.0404,
+        "eligibleVolume": 1172.85142,
         "tickets": 0
       }
     },
