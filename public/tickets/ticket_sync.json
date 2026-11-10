@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-10T11:24:25.370Z",
+  "lastSourceUpdate": "2026-11-10T12:26:23.138Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -5582,14 +5582,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 70261.14576,
+        "volume": 70283.18678,
         "fee": 12.27786851,
         "deposit": 2896.598322
       },
       "campaign": {
-        "volume": 3955.59932,
+        "volume": 3977.64034,
         "fee": 0.40146477,
-        "eligibleVolume": 3955.59932,
+        "eligibleVolume": 3977.64034,
         "tickets": 0
       }
     },
@@ -5990,14 +5990,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 168.98994,
+        "volume": 171.22374,
         "fee": 0.030712709999999997,
         "deposit": 674.33795053
       },
       "campaign": {
-        "volume": 9.969,
+        "volume": 12.2028,
         "fee": 0.00249422,
-        "eligibleVolume": 9.969,
+        "eligibleVolume": 12.2028,
         "tickets": 0
       }
     },
@@ -6585,14 +6585,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 24460.155124689998,
+        "volume": 24474.36927169,
         "fee": 4.925234779999999,
         "deposit": 34481.634469079996
       },
       "campaign": {
-        "volume": 3787.54084512,
+        "volume": 3801.75499212,
         "fee": 1.07646152,
-        "eligibleVolume": 3787.54084512,
+        "eligibleVolume": 3801.75499212,
         "tickets": 0
       }
     },
@@ -6687,14 +6687,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 90825.48700646001,
+        "volume": 90829.76710646,
         "fee": 194.72822226,
         "deposit": 91667.91713932001
       },
       "campaign": {
-        "volume": 321.51323,
+        "volume": 325.79333,
         "fee": 1.68182432,
-        "eligibleVolume": 321.51323,
+        "eligibleVolume": 325.79333,
         "tickets": 0
       }
     },
