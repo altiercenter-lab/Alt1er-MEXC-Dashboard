@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-12T21:24:41.500Z",
+  "lastSourceUpdate": "2026-11-12T22:24:18.744Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -5991,12 +5991,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 176.84844,
-        "fee": 0.03186326,
+        "fee": 0.03258336,
         "deposit": 674.33795053
       },
       "campaign": {
         "volume": 17.9319,
-        "fee": 0.0037795,
+        "fee": 0.0044996,
         "eligibleVolume": 17.9319,
         "tickets": 0
       }
@@ -6688,12 +6688,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 118635.37351646,
-        "fee": 278.30344103,
+        "fee": 278.55327653,
         "deposit": 91854.40266151
       },
       "campaign": {
         "volume": 8256.06747,
-        "fee": 4.05619454,
+        "fee": 4.30603004,
         "eligibleVolume": 8256.06747,
         "tickets": 1
       }
