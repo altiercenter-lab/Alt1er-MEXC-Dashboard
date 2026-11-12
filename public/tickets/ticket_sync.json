@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-12T00:24:20.648Z",
+  "lastSourceUpdate": "2026-11-12T01:24:46.913Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -12,334 +12,11 @@
     "isLive": true
   },
   "summary": {
-    "totalKnownParticipants": 466,
-    "campaignEligibleUsers": 8,
-    "campaignTotalTickets": 62
+    "totalKnownParticipants": 449,
+    "campaignEligibleUsers": 7,
+    "campaignTotalTickets": 60
   },
   "data": [
-    {
-      "uid": "88011592",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "15042518",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "36079684",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "29726511",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 235.792,
-        "fee": 0.07114438,
-        "deposit": 235.792
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "71685774",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 93268.6183,
-        "fee": 8.03822993,
-        "deposit": 350
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "35854827",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "02623983",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "26303107",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "14193228",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 155.83401,
-        "fee": 0.05634402,
-        "deposit": 956.99
-      },
-      "campaign": {
-        "volume": 75.27249,
-        "fee": 0.02714981,
-        "eligibleVolume": 75.27249,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "37542596",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 620131.20313359,
-        "fee": 267.88197329999997,
-        "deposit": 9966.91114009
-      },
-      "campaign": {
-        "volume": 1643.05174,
-        "fee": 0.70979835,
-        "eligibleVolume": 1643.05174,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "68639038",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "33934058",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "76130246",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "93312841",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 255221.86360421998,
-        "fee": 85.22803984,
-        "deposit": 520.0073580000001
-      },
-      "campaign": {
-        "volume": 13142.293563,
-        "fee": 1.82838398,
-        "eligibleVolume": 13142.293563,
-        "tickets": 2
-      }
-    },
-    {
-      "uid": "04422729",
-      "discordId": "261511609694814211",
-      "discordTag": "minunplusle",
-      "kol": "Altier",
-      "allTime": {
-        "volume": 188981.69887,
-        "fee": 80.93945069,
-        "deposit": 2278.0554740000002
-      },
-      "campaign": {
-        "volume": 415.6348538,
-        "fee": 0.16243811,
-        "eligibleVolume": 415.6348538,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "91951238",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "77382103",
-      "discordId": "236207230469275648",
-      "discordTag": "shimal2i",
-      "kol": "Altier",
-      "allTime": {
-        "volume": 567278.70718849,
-        "fee": 234.20485497,
-        "deposit": 11491.016328000002
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "86037656",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 3657304.0670499997,
-        "fee": 610.1409947000001,
-        "deposit": 998.81142
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
-    {
-      "uid": "83457419",
-      "discordId": null,
-      "discordTag": null,
-      "kol": "Altier",
-      "allTime": {
-        "volume": 0,
-        "fee": 0,
-        "deposit": 0
-      },
-      "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
-      }
-    },
     {
       "uid": "33755958",
       "discordId": "288582274843279360",
@@ -7872,6 +7549,23 @@
       }
     },
     {
+      "uid": "04422729",
+      "discordId": "261511609694814211",
+      "discordTag": "minunplusle",
+      "kol": "Altier",
+      "allTime": {
+        "volume": 0,
+        "fee": 0,
+        "deposit": 0
+      },
+      "campaign": {
+        "volume": 415.6348538,
+        "fee": 0.16243811,
+        "eligibleVolume": 415.6348538,
+        "tickets": 0
+      }
+    },
+    {
       "uid": "40532543",
       "discordId": "700288548846305281",
       "discordTag": "riograndia",
@@ -7927,6 +7621,23 @@
       "discordId": "236207230469275648",
       "discordTag": "shimal2i",
       "kol": "Altier Gangster",
+      "allTime": {
+        "volume": 0,
+        "fee": 0,
+        "deposit": 0
+      },
+      "campaign": {
+        "volume": 0,
+        "fee": 0,
+        "eligibleVolume": 0,
+        "tickets": 0
+      }
+    },
+    {
+      "uid": "77382103",
+      "discordId": "236207230469275648",
+      "discordTag": "shimal2i",
+      "kol": "Altier",
       "allTime": {
         "volume": 0,
         "fee": 0,
