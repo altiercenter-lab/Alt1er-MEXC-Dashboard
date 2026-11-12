@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-12T19:24:57.847Z",
+  "lastSourceUpdate": "2026-11-12T20:25:06.643Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -13,8 +13,8 @@
   },
   "summary": {
     "totalKnownParticipants": 466,
-    "campaignEligibleUsers": 9,
-    "campaignTotalTickets": 63
+    "campaignEligibleUsers": 10,
+    "campaignTotalTickets": 65
   },
   "data": [
     {
@@ -601,14 +601,14 @@
       "discordTag": "lluxl",
       "kol": "MoMo",
       "allTime": {
-        "volume": 23526.64197491,
-        "fee": 2.84604816,
+        "volume": 23907.856414910002,
+        "fee": 2.92892357,
         "deposit": 8881.97831796
       },
       "campaign": {
-        "volume": 6125.03876,
-        "fee": 0.4985447,
-        "eligibleVolume": 6125.03876,
+        "volume": 6506.2532,
+        "fee": 0.58142011,
+        "eligibleVolume": 6506.2532,
         "tickets": 1
       }
     },
@@ -805,14 +805,14 @@
       "discordTag": "tonii2",
       "kol": "MoMo",
       "allTime": {
-        "volume": 71757.66372000001,
-        "fee": 11.27572426,
+        "volume": 73357.64572,
+        "fee": 11.49640946,
         "deposit": 210.97
       },
       "campaign": {
-        "volume": 3156.54719,
-        "fee": 0.47973505,
-        "eligibleVolume": 3156.54719,
+        "volume": 4756.52919,
+        "fee": 0.70042025,
+        "eligibleVolume": 4756.52919,
         "tickets": 0
       }
     },
@@ -4239,14 +4239,14 @@
       "discordTag": "huntersxhunt",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 30452.43007997,
-        "fee": 3.50402128,
+        "volume": 30629.72500197,
+        "fee": 3.53997737,
         "deposit": 5169.06137256
       },
       "campaign": {
-        "volume": 2857.6326074,
-        "fee": 0.47046768,
-        "eligibleVolume": 2857.6326074,
+        "volume": 3034.9275294,
+        "fee": 0.50642378,
+        "eligibleVolume": 3034.9275294,
         "tickets": 0
       }
     },
@@ -4494,14 +4494,14 @@
       "discordTag": "cryptoplayto",
       "kol": "TP SQUAD",
       "allTime": {
-        "volume": 3445.92846466,
+        "volume": 5128.19783466,
         "fee": 0.09596792,
         "deposit": 192.33360123
       },
       "campaign": {
-        "volume": 3141.674603,
+        "volume": 4823.943973,
         "fee": 0.07015495,
-        "eligibleVolume": 3141.674603,
+        "eligibleVolume": 4823.943973,
         "tickets": 0
       }
     },
@@ -5583,12 +5583,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 70277.26026,
-        "fee": 12.11732505,
+        "fee": 12.196182859999999,
         "deposit": 2896.598322
       },
       "campaign": {
         "volume": 4294.99372,
-        "fee": 0.41292528,
+        "fee": 0.49178309,
         "eligibleVolume": 4294.99372,
         "tickets": 0
       }
@@ -6586,12 +6586,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 32213.939748959998,
-        "fee": 7.12961,
+        "fee": 7.1695771,
         "deposit": 34897.50262654
       },
       "campaign": {
         "volume": 11541.32546939,
-        "fee": 3.28083674,
+        "fee": 3.32080384,
         "eligibleVolume": 11541.32546939,
         "tickets": 2
       }
@@ -6688,12 +6688,12 @@
       "kol": "Altier",
       "allTime": {
         "volume": 118635.37351646,
-        "fee": 275.93035484,
+        "fee": 278.30344103,
         "deposit": 91854.40266151
       },
       "campaign": {
         "volume": 8256.06747,
-        "fee": 1.68310835,
+        "fee": 4.05619454,
         "eligibleVolume": 8256.06747,
         "tickets": 1
       }
@@ -7214,14 +7214,14 @@
       "discordTag": "simurgh_",
       "kol": "Altier Gangster",
       "allTime": {
-        "volume": 2246755.75550743,
-        "fee": 616.78683089,
+        "volume": 2247445.67450743,
+        "fee": 616.85582279,
         "deposit": 9476.28138312
       },
       "campaign": {
-        "volume": 3218.478,
-        "fee": 0.3218478,
-        "eligibleVolume": 3218.478,
+        "volume": 3908.397,
+        "fee": 0.3908397,
+        "eligibleVolume": 3908.397,
         "tickets": 0
       }
     },
@@ -7265,15 +7265,15 @@
       "discordTag": ".yoloth",
       "kol": "Stang",
       "allTime": {
-        "volume": 961019.91868339,
-        "fee": 140.97242248999999,
+        "volume": 969170.63546339,
+        "fee": 142.43955151,
         "deposit": 1097.9376355200002
       },
       "campaign": {
-        "volume": 135248.456613,
-        "fee": 16.25378335,
-        "eligibleVolume": 135248.456613,
-        "tickets": 27
+        "volume": 143399.173393,
+        "fee": 17.72091237,
+        "eligibleVolume": 143399.173393,
+        "tickets": 28
       }
     },
     {
@@ -7401,15 +7401,15 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 3550867.26005083,
-        "fee": 1272.23945352,
+        "volume": 3560193.5470008296,
+        "fee": 1275.0373396100001,
         "deposit": 12895.14832736
       },
       "campaign": {
-        "volume": 0,
-        "fee": 0,
-        "eligibleVolume": 0,
-        "tickets": 0
+        "volume": 9326.28695,
+        "fee": 2.79788608,
+        "eligibleVolume": 9326.28695,
+        "tickets": 1
       }
     },
     {
