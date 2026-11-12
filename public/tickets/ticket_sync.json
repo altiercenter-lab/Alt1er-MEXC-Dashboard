@@ -1,7 +1,7 @@
 {
   "configured": true,
   "status": "CALCULATED",
-  "lastSourceUpdate": "2026-11-12T14:25:05.145Z",
+  "lastSourceUpdate": "2026-11-12T15:24:21.137Z",
   "throughRound": 1,
   "pollingEnabled": true,
   "campaignConfig": {
@@ -13,8 +13,8 @@
   },
   "summary": {
     "totalKnownParticipants": 466,
-    "campaignEligibleUsers": 8,
-    "campaignTotalTickets": 62
+    "campaignEligibleUsers": 9,
+    "campaignTotalTickets": 63
   },
   "data": [
     {
@@ -5582,14 +5582,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 70052.56716,
+        "volume": 70287.38846,
         "fee": 12.21529493,
         "deposit": 2896.598322
       },
       "campaign": {
-        "volume": 3993.80102,
+        "volume": 4228.62232,
         "fee": 0.41292528,
-        "eligibleVolume": 3993.80102,
+        "eligibleVolume": 4228.62232,
         "tickets": 0
       }
     },
@@ -5990,14 +5990,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 173.95064,
+        "volume": 176.90944,
         "fee": 0.03186664,
         "deposit": 674.33795053
       },
       "campaign": {
-        "volume": 15.0767,
+        "volume": 18.0355,
         "fee": 0.0037795,
-        "eligibleVolume": 15.0767,
+        "eligibleVolume": 18.0355,
         "tickets": 0
       }
     },
@@ -6585,14 +6585,14 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 32633.26874896,
+        "volume": 33032.93974896,
         "fee": 7.12961,
         "deposit": 34861.86497254
       },
       "campaign": {
-        "volume": 11141.65446939,
+        "volume": 11541.32546939,
         "fee": 3.28083674,
-        "eligibleVolume": 11141.65446939,
+        "eligibleVolume": 11541.32546939,
         "tickets": 2
       }
     },
@@ -6687,15 +6687,15 @@
       "discordTag": null,
       "kol": "Altier",
       "allTime": {
-        "volume": 97704.06797871999,
+        "volume": 105634.34211872,
         "fee": 213.08744209,
         "deposit": 93599.19567306
       },
       "campaign": {
-        "volume": 325.79333,
+        "volume": 8256.06747,
         "fee": 1.68310835,
-        "eligibleVolume": 325.79333,
-        "tickets": 0
+        "eligibleVolume": 8256.06747,
+        "tickets": 1
       }
     },
     {
