@@ -319,7 +319,7 @@ uid,discord_id,kyc_verified,campaign_referral_verified,uid_binding_verified,excl
 24625283,848902636673302568,true,true,true,false,false,,
 71529018,756503217608851476,true,true,true,false,false,,
 03748773,915193137901735968,true,true,true,false,false,,
-73016609,,false,true,false,false,false,,
+73016609,,false,true,false,false,true,,
 05165997,,false,true,false,false,false,,
 95207987,,false,true,false,false,false,,
 01373426,,false,true,false,false,false,,
